@@ -1,0 +1,29 @@
+{
+  "name": "edmondscommerce/behat-virtuemart-context",
+  "description": "Behat context for VirtueMart",
+  "keywords": [
+    "Behat",
+    "Testing",
+    "VirtueMart",
+    "Virtuemart",
+    "Browser"
+  ],
+  "homepage": "https://www.edmondscommerce.co.uk",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "edmondscommerce",
+      "email": "info@edmondscommerce.co.uk"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "behat/behat": "~3.0",
+    "edmondscommerce/faker-context": "*@dev"
+  },
+  "autoload": {
+    "psr-4": {
+      "EdmondsCommerce\\BehatPrestashop\\": "src/"
+    }
+  }
+}
