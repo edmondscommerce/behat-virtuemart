@@ -7,7 +7,7 @@ use Behat\Behat\Context\SnippetAcceptingContext;
 use Behat\MinkExtension\Context\RawMinkContext;
 use Behat\Behat\Hook\Scope\BeforeScenarioScope;
 
-class FeatureContext extends RawMinkContext implements Context, SnippetAcceptingContext
+class VirtuemartFrontContext extends RawMinkContext implements Context, SnippetAcceptingContext
 {
     private $faker;
 
