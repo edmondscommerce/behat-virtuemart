@@ -5,7 +5,7 @@
 
 Install via composer
 
-composer require edmondscommerce/behat-virtuemart
+composer require edmondscommerce/behat-virtuemart-context
 
 ### Include Contexts in Behat Configuration
 ``` yaml
