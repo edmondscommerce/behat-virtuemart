@@ -1,6 +1,6 @@
 <?php
 
-namespace EdmondsCommerce\BehatPrestashop;
+namespace EdmondsCommerce\BehatVirtueMart;
 
 use Behat\Behat\Context\Context;
 use Behat\Behat\Context\SnippetAcceptingContext;
