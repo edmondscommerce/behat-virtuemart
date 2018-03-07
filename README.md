@@ -1,4 +1,4 @@
-#VirtueMart Context
+# VirtueMart Context
 ## By [Edmonds Commerce](https://www.edmondscommerce.co.uk)
 
 ### Installation
